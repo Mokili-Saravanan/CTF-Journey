@@ -21,4 +21,4 @@ Under "ROM" ,
 Update xml version, XXE payload 
 ![alt text](image.png)
 
-Upon updating this , we get our flag 
+Upon updating this , we get the flag.txt 
