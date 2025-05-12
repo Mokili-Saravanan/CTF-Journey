@@ -12,3 +12,6 @@ The crew sets their sights on an abandoned fertilizer plant, a desolate structur
 
 By opening the Wireshark traffic report file , we find modbus / TCP protocol . 
 but by opening a query of length 123, with unknown func, we find an odd lenght of string in it. 
+![alt text](image.png)
+
+We found the secret information. 
